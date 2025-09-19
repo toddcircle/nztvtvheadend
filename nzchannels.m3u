@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/nzau/epg.xml.gz"
+
+#TVNZ 1
+#EXTINF:-1 tvg-id="mjh-tvnz-1" tvg-name="TVNZ 1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png" tvg-chno="1" group-title="NZ",TVNZ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://mjh.nz/
+https://dz1g25geip0uq.cloudfront.net/master_19.m3u8
+
+#TVNZ 2
+#EXTINF:-1 tvg-id="mjh-tvnz-2" tvg-name="TVNZ 2" tvg-logo="https://i.mjh.nz/.images/tvnz-2.png" tvg-chno="2" group-title="NZ",TVNZ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://mjh.nz/
+https://d5qh9kd2mz71z.cloudfront.net/master_5.m3u8
